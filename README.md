@@ -1,5 +1,3 @@
-# page_layout_example
-
 # Creating a Minimal Reproducible Example for:
 https://stackoverflow.com/questions/71887473/react-nextjs-passing-both-children-and-other-arguments-to-component
 
